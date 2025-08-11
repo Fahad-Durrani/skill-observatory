@@ -2,8 +2,8 @@ from imports import *
 import boto3
 from botocore.exceptions import ClientError
 
-AWS_ACCESS_KEY_ID='AKIAZQL7LTOI3YH3OZ47'
-AWS_SECRET_ACCESS_KEY='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'
+AWS_ACCESS_KEY_ID=os.getenv('AWS_ACCESS_KEY_ID')
+AWS_SECRET_ACCESS_KEY=os.getenv('AWS_SECRET_ACCESS_KEY')
 Buckets='staging-hcms-textract'
 folder_name="data/files/skills-observatory"
 region="eu-west-2"
