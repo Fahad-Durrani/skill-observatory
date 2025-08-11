@@ -1,0 +1,1202 @@
+2024-12-05 18:07:06,166 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 18:07:14,910 - utils.uLogger - ERROR - Error: connection error
+Expecting value: line 1 column 13 (char 12)
+2024-12-05 18:10:14,025 - utils.uLogger - ERROR - Error: connection error
+string indices must be integers
+2024-12-05 18:11:01,081 - utils.uLogger - ERROR - Error: connection error
+string indices must be integers
+2024-12-05 18:11:51,816 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 18:11:58,696 - utils.uLogger - ERROR - Error: connection error
+data must be str, bytes-like, or iterable
+2024-12-05 18:12:38,047 - utils.uLogger - ERROR - Error: connection error
+data must be str, bytes-like, or iterable
+2024-12-05 18:13:45,947 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 18:24:23,746 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 18:30:04,075 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 18:30:16,183 - utils.uLogger - ERROR - Error: connection error
+data is a dict-like object
+2024-12-05 18:35:44,624 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 18:46:28,172 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 18:49:52,039 - utils.uLogger - ERROR - Error: Unable to connect to the database with psycopg2
+name 'psycopg2' is not defined
+2024-12-05 18:49:52,042 - utils.uLogger - ERROR - Error: Unable to connect to the database with psycopg2
+name 'psycopg2' is not defined
+2024-12-05 18:50:03,925 - utils.uLogger - ERROR - Error: connection error
+name 'api_key' is not defined
+2024-12-05 18:50:55,828 - utils.uLogger - ERROR - Error: Unable to connect to the database with psycopg2
+name 'psycopg2' is not defined
+2024-12-05 18:50:55,844 - utils.uLogger - ERROR - Error: Unable to connect to the database with psycopg2
+name 'psycopg2' is not defined
+2024-12-05 18:51:05,271 - utils.uLogger - ERROR - Error: connection error
+name 'db' is not defined
+2024-12-05 18:52:55,561 - utils.uLogger - ERROR - Error: Unable to connect to the database with psycopg2
+name 'psycopg2' is not defined
+2024-12-05 18:52:55,563 - utils.uLogger - ERROR - Error: Unable to connect to the database with psycopg2
+name 'psycopg2' is not defined
+2024-12-05 18:52:55,566 - utils.uLogger - ERROR - Error: Unable to connect to the database with psycopg2
+name 'psycopg2' is not defined
+2024-12-05 18:52:55,567 - utils.uLogger - ERROR - Error: Unable to connect to the database with psycopg2
+name 'psycopg2' is not defined
+2024-12-05 18:53:16,093 - utils.uLogger - ERROR - Error: connection error
+Must provide exactly one of 'toolkit' or 'db'. Received neither.
+2024-12-05 18:55:14,359 - utils.uLogger - ERROR - Error: Unable to connect to the database with psycopg2
+name 'psycopg2' is not defined
+2024-12-05 18:55:14,361 - utils.uLogger - ERROR - Error: Unable to connect to the database with psycopg2
+name 'psycopg2' is not defined
+2024-12-05 18:55:14,363 - utils.uLogger - ERROR - Error: Unable to connect to the database with psycopg2
+name 'psycopg2' is not defined
+2024-12-05 18:55:14,364 - utils.uLogger - ERROR - Error: Unable to connect to the database with psycopg2
+name 'psycopg2' is not defined
+2024-12-05 18:55:23,914 - utils.uLogger - ERROR - Error: connection error
+Must provide exactly one of 'toolkit' or 'db'. Received neither.
+2024-12-05 18:59:05,944 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 18:59:05,969 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 18:59:07,556 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 18:59:07,639 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:03:21,225 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:03:21,225 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:03:22,837 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:03:22,909 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:03:31,264 - utils.uLogger - ERROR - Error: connection error
+name 'db' is not defined
+2024-12-05 19:07:57,474 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:07:57,479 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:07:59,078 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:07:59,213 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:08:08,253 - utils.uLogger - ERROR - Error: connection error
+name 'db' is not defined
+2024-12-05 19:09:25,232 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:09:25,233 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:09:26,744 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:09:26,822 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:09:33,834 - utils.uLogger - ERROR - Error: connection error
+name 'db' is not defined
+2024-12-05 19:10:37,123 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:10:37,139 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:10:38,699 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:10:38,700 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:13:30,072 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 19:13:34,208 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:13:34,210 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:13:35,851 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:13:35,908 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:13:59,731 - utils.uLogger - ERROR - Error: connection error
+data is a dict-like object
+2024-12-05 19:16:58,420 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:16:58,427 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:16:59,923 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:17:00,122 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:18:58,433 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 19:21:11,072 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 19:21:17,528 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:21:17,529 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:21:19,107 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:21:19,163 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:26:05,553 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 19:26:09,554 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:26:09,578 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:26:11,139 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:26:11,213 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:26:19,108 - utils.uLogger - ERROR - Error: connection error
+sql_querry_generator() takes 2 positional arguments but 4 were given
+2024-12-05 19:26:51,357 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:26:51,374 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:26:52,998 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:26:53,055 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:29:51,221 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 19:29:55,380 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:29:55,388 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:29:56,920 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:29:56,981 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:34:40,362 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 19:34:44,780 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:34:44,782 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:34:46,448 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:34:46,489 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:36:26,812 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 19:36:30,875 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:36:30,878 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:36:32,526 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:36:32,600 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:38:11,271 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 19:38:15,347 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:38:15,347 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:38:16,843 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:38:16,883 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:39:43,441 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 19:39:47,591 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:39:47,594 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:39:49,110 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:39:49,130 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:41:55,581 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 19:42:00,247 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:42:00,250 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:42:01,874 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:42:01,928 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:42:07,433 - utils.uLogger - INFO - ('Which skills are in demand', <langchain_community.utilities.sql_database.SQLDatabase object at 0x7fceb04da070>, ['Use only the following tables: supply_data_flat, demand_jobs_data_flat.', 'Do not use any columns outside the table schema.', "If querry is not Executed, only return **i don't know .", 'Never return Table schema at ouputExclude any Nan Value or Terms in tables'], ['supply_data_flat', 'demand_jobs_data_flat'], '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')
+2024-12-05 19:43:40,951 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 19:43:45,024 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:43:45,029 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:43:46,659 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:43:46,659 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:43:52,057 - utils.uLogger - INFO - client=<openai.resources.chat.completions.Completions object at 0x7fbfd1069100> async_client=<openai.resources.chat.completions.AsyncCompletions object at 0x7fbfd106fc70> root_client=<openai.OpenAI object at 0x7fbfd10d9160> root_async_client=<openai.AsyncOpenAI object at 0x7fbfd1069130> model_name='gpt-4o-mini' temperature=0.0 openai_api_key=SecretStr('**********') openai_proxy=''
+2024-12-05 19:45:24,600 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 19:45:28,808 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:45:28,839 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 19:45:30,472 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 19:45:30,503 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 20:06:50,140 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 20:06:55,030 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 20:06:55,031 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 20:06:56,675 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 20:06:56,677 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 20:42:44,677 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 20:42:44,678 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 20:42:46,380 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 20:42:46,401 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 20:46:03,827 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 20:46:15,435 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 20:46:15,437 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 20:46:16,985 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 20:46:17,045 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 20:52:24,463 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 20:52:24,464 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 20:52:26,015 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 20:52:26,018 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 20:53:10,668 - utils.uLogger - ERROR - Error: connection error
+litellm.AuthenticationError: AuthenticationError: OpenAIException - The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2024-12-05 20:57:26,039 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 20:57:26,049 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 20:57:27,614 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 20:57:27,627 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 20:57:47,084 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-05 20:57:47,118 - utils.uLogger - ERROR - Error: connection error
+litellm.AuthenticationError: AuthenticationError: OpenAIException - The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2024-12-05 21:04:08,116 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 21:04:08,124 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 21:04:09,694 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 21:04:09,774 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 21:04:35,843 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 21:04:35,853 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 21:04:37,406 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 21:04:37,517 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 21:05:04,292 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-05 21:05:04,328 - utils.uLogger - ERROR - Error: connection error
+litellm.AuthenticationError: AuthenticationError: OpenAIException - The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2024-12-05 21:06:36,702 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 21:06:36,709 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 21:06:38,282 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 21:06:38,291 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 21:07:06,695 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-05 21:07:25,691 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-05 21:07:38,681 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-05 21:11:06,107 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 21:11:06,108 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 21:11:07,659 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 21:11:07,732 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-05 21:12:50,961 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-05 21:12:56,307 - utils.uLogger - INFO - ```python
+# Necessary libraries
+import matplotlib.pyplot as plt
+
+# Skill groups and their respective counts
+skill_groups = {
+    'Domain Specific Skills': 837,
+    'Leadership and Management': 301,
+    'Soft': 148,
+    'IT and Software': 121,
+    'Green': 19,
+    # Combining similar categories to avoid duplication
+    'Soft (duplicate)': 79,
+    'IT and Software (duplicate)': 72
+}
+
+# Aggregating counts for similar skill categories to ensure clarity
+aggregated_skills = {
+    'Domain Specific Skills': 837,
+    'Leadership and Management': 301,
+    'Soft': 227,  # combined 148 + 79
+    'IT and Software': 193,  # combined 121 + 72
+    'Green': 19
+}
+
+# Creating the bar graph
+plt.figure(figsize=(10, 6))
+plt.bar(aggregated_skills.keys(), aggregated_skills.values(), color='skyblue')
+plt.xlabel('Skill Groups', fontsize=14)
+plt.ylabel('Count of Skills', fontsize=14)
+plt.title('Skill Groups in Demand', fontsize=16)
+plt.xticks(rotation=45)
+plt.tight_layout()
+
+# Save the figure
+plt.savefig('Skills1.png', bbox_inches='tight')
+plt.close()
+
+# Success message
+print('Image generated successfully.')
+```
+2024-12-05 21:13:01,731 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-05 21:13:14,620 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-05 21:13:16,225 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 09:51:06,878 - utils.uLogger - ERROR - Error: connection error
+(psycopg2.OperationalError) SSL SYSCALL error: EOF detected
+
+[SQL: SELECT supply_data_flat.course_id, supply_data_flat.course_title, supply_data_flat.course_skill, supply_data_flat.institute, supply_data_flat.state, supply_data_flat.skill_group 
+FROM supply_data_flat 
+ LIMIT %(param_1)s]
+[parameters: {'param_1': 3}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-06 09:51:41,945 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 09:51:41,945 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 09:51:43,566 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 09:51:43,625 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 09:57:30,330 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-06 09:57:34,993 - utils.uLogger - INFO - Given the provided data on skill groups in demand, the most suitable visualization type is a bar graph. This type of visualization effectively represents the different skill groups alongside their respective counts, making it easy to compare the demand for each skill group.
+
+Here is the executable Python code for creating the bar graph:
+
+```python
+# Install necessary libraries
+# !pip install matplotlib seaborn
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Data for visualization
+skill_groups = ['Domain Specific Skills', 'Leadership and Management', 'Soft', 'IT and Software', 
+                'Green']
+counts = [837, 301, 148, 121, 19]
+
+# Adjust for case sensitivity and duplicates
+skills_counts = {
+    'Domain Specific Skills': 837,
+    'Leadership and Management': 301,
+    'Soft': 148,
+    'IT and Software': 121,
+    'Green': 19
+}
+
+# Create a bar plot
+plt.figure(figsize=(10, 6))
+sns.barplot(x=list(skills_counts.keys()), y=list(skills_counts.values()), palette='viridis')
+
+# Adding titles and labels
+plt.title('Skill Groups in Demand', fontsize=16)
+plt.xlabel('Skill Groups', fontsize=12)
+plt.ylabel('Number of Skills', fontsize=12)
+plt.xticks(rotation=45)
+plt.tight_layout()
+
+# Save the plot
+plt.savefig('Skills1.png', bbox_inches='tight')
+plt.close()
+
+# Indicate success
+print('Image generated successfully.')
+``` 
+
+The code uses the `matplotlib` and `seaborn` libraries to create and save a bar graph, visualizing the counts of different skill groups in demand. The image is saved as "Skills1.png" and is centered with proper layout adjustments to ensure clarity and prevent any clipping or unnecessary whitespace.
+
+The visualization should be engaging and suitable for display on a frontend. If the code runs successfully, it will produce the success message 'Image generated successfully.' If any issues arise during the execution, it will indicate that 'Visualization can't be generated.'
+2024-12-06 12:04:45,095 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-06 12:05:01,573 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:05:01,573 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:05:03,132 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:05:03,157 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:07:09,159 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:07:09,159 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:07:10,670 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:07:10,785 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:08:38,147 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:08:38,148 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:08:39,651 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:08:39,702 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:08:54,317 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:08:54,321 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:08:55,867 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:08:55,903 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:10:09,929 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:10:09,929 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:10:11,507 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:10:11,560 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:12:32,449 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:12:32,463 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:12:34,011 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:12:34,017 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:13:43,706 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:13:43,710 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:13:45,245 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:13:45,260 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:16:57,139 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:16:57,145 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:16:58,701 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:16:58,801 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:18:35,218 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:18:35,221 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:18:36,744 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:18:36,815 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:18:56,306 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:18:56,313 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:18:57,847 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:18:57,990 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:20:20,727 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:20:20,732 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:20:22,287 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:20:22,338 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:21:17,306 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:21:17,306 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 12:21:18,805 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 12:21:18,919 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 13:40:11,578 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-06 13:40:11,584 - utils.uLogger - ERROR - Error: connection error
+'response'
+2024-12-06 14:37:18,240 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 14:37:18,247 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 14:37:19,832 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 14:37:19,936 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 14:37:37,428 - utils.uLogger - ERROR - Error: connection error
+string indices must be integers
+2024-12-06 14:41:38,504 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 14:41:38,514 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 14:41:40,049 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 14:41:40,143 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 14:41:50,421 - utils.uLogger - INFO - Greeting message Hi there! How can I assist you today?
+2024-12-06 14:41:50,422 - utils.uLogger - ERROR - Error: connection error
+data is a dict-like object
+2024-12-06 14:43:39,265 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 14:43:39,270 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 14:43:40,928 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 14:43:40,975 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 14:43:49,211 - utils.uLogger - INFO - Greeting message Hi there! How can I assist you today?
+2024-12-06 14:43:49,212 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': 'Hi there! How can I assist you today?', 'querry_flag': True}
+2024-12-06 14:43:49,213 - utils.uLogger - ERROR - Error: connection error
+data is a dict-like object
+2024-12-06 14:47:10,270 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 14:47:10,274 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 14:47:11,955 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 14:47:12,000 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 14:47:23,201 - utils.uLogger - INFO - Greeting message Hi there! How can I assist you today?
+2024-12-06 14:47:23,202 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': 'Hi there! How can I assist you today?', 'querry_flag': True}
+2024-12-06 14:47:46,988 - utils.uLogger - INFO - Irrelevant message I'm sorry, I can only assist with queries related to skills, demands, institutes, and similar topics. Could you ask something along those lines?
+2024-12-06 14:47:46,989 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': "I'm sorry, I can only assist with queries related to skills, demands, institutes, and similar topics. Could you ask something along those lines?", 'querry_flag': True}
+2024-12-06 14:48:03,121 - utils.uLogger - INFO - Irrelevant message I'm sorry, I can only assist with queries related to skills, demands, institutes, and similar topics. Could you ask something along those lines?
+2024-12-06 14:48:03,122 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': "I'm sorry, I can only assist with queries related to skills, demands, institutes, and similar topics. Could you ask something along those lines?", 'querry_flag': True}
+2024-12-06 14:48:13,857 - utils.uLogger - INFO - Irrelevant message I'm sorry, I can only assist with queries related to skills, demands, institutes, and similar topics. Could you ask something along those lines?
+2024-12-06 14:48:13,857 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': "I'm sorry, I can only assist with queries related to skills, demands, institutes, and similar topics. Could you ask something along those lines?", 'querry_flag': True}
+2024-12-06 14:48:34,998 - utils.uLogger - ERROR - Error: connection error
+name 'user_query' is not defined
+2024-12-06 14:49:46,406 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 14:49:46,410 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 14:49:48,077 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 14:49:48,077 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 14:50:03,253 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-06 14:50:03,254 - utils.uLogger - INFO -  langchain agent responce I have obtained the schema for the relevant tables: `supply_data_flat` and `demand_jobs_data_flat`. 
+
+Now, please provide me with a specific question or query you would like to run against these tables.
+2024-12-06 14:50:03,255 - utils.uLogger - INFO -  Going for CREWS I have obtained the schema for the relevant tables: `supply_data_flat` and `demand_jobs_data_flat`. 
+
+Now, please provide me with a specific question or query you would like to run against these tables.
+2024-12-06 14:50:03,256 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': 'I have obtained the schema for the relevant tables: `supply_data_flat` and `demand_jobs_data_flat`. \n\nNow, please provide me with a specific question or query you would like to run against these tables.', 'querry_flag': False}
+2024-12-06 14:52:07,016 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-06 14:52:16,337 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 14:52:16,348 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 14:52:18,007 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 14:52:18,009 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 14:52:28,264 - utils.uLogger - INFO - Irrelevant message I'm sorry, I can only assist with queries related to skills, demands, institutes, and similar topics. Could you ask something along those lines?
+2024-12-06 14:52:28,265 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': "I'm sorry, I can only assist with queries related to skills, demands, institutes, and similar topics. Could you ask something along those lines?", 'querry_flag': True}
+2024-12-06 14:53:28,606 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-06 14:53:28,606 - utils.uLogger - INFO -  langchain agent responce The skills in demand are:
+
+1. Periodic processing
+2. Interpersonal communications
+3. Examine budgets
+4. Aircraft accident investigation
+5. Medical assistance
+6. Event planning
+7. Corporate social responsibility
+8. Consumables
+9. User experience
+10. Customer satisfaction
+2024-12-06 14:53:28,607 - utils.uLogger - INFO -  Going for CREWS The skills in demand are:
+
+1. Periodic processing
+2. Interpersonal communications
+3. Examine budgets
+4. Aircraft accident investigation
+5. Medical assistance
+6. Event planning
+7. Corporate social responsibility
+8. Consumables
+9. User experience
+10. Customer satisfaction
+2024-12-06 14:53:28,608 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': 'The skills in demand are:\n\n1. Periodic processing\n2. Interpersonal communications\n3. Examine budgets\n4. Aircraft accident investigation\n5. Medical assistance\n6. Event planning\n7. Corporate social responsibility\n8. Consumables\n9. User experience\n10. Customer satisfaction', 'querry_flag': False}
+2024-12-06 14:56:49,256 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-06 14:56:59,257 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 14:56:59,260 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 14:57:00,946 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 14:57:01,012 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 14:57:25,003 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-06 14:57:25,004 - utils.uLogger - INFO -  langchain agent responce The top 5 skills from the database are:
+
+1. Metallurgy
+2. Core sampling
+3. Health data specialists
+4. Dual processor
+5. Location search optimization
+
+Additionally, from the demand jobs data, the top 5 skills are:
+
+1. Periodic processing
+2. Interpersonal communications
+3. Examine budgets
+4. Aircraft accident investigation
+5. Medical assistance
+2024-12-06 14:57:25,005 - utils.uLogger - INFO -  Going for CREWS The top 5 skills from the database are:
+
+1. Metallurgy
+2. Core sampling
+3. Health data specialists
+4. Dual processor
+5. Location search optimization
+
+Additionally, from the demand jobs data, the top 5 skills are:
+
+1. Periodic processing
+2. Interpersonal communications
+3. Examine budgets
+4. Aircraft accident investigation
+5. Medical assistance
+2024-12-06 14:57:25,006 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': 'The top 5 skills from the database are:\n\n1. Metallurgy\n2. Core sampling\n3. Health data specialists\n4. Dual processor\n5. Location search optimization\n\nAdditionally, from the demand jobs data, the top 5 skills are:\n\n1. Periodic processing\n2. Interpersonal communications\n3. Examine budgets\n4. Aircraft accident investigation\n5. Medical assistance', 'querry_flag': False}
+2024-12-06 15:39:58,666 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-06 15:46:34,925 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 15:46:34,986 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 15:46:36,518 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 15:46:36,627 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 15:46:52,456 - utils.uLogger - ERROR - Error: connection error
+Unterminated string starting at: line 1 column 12 (char 11)
+2024-12-06 15:53:37,292 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 15:53:37,302 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 15:53:39,323 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 15:53:39,415 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 15:53:52,759 - utils.uLogger - ERROR - Error: connection error
+Unterminated string starting at: line 1 column 12 (char 11)
+2024-12-06 15:55:37,948 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 15:55:37,948 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 15:55:40,672 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 15:55:40,761 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 15:55:55,978 - utils.uLogger - ERROR - Error: connection error
+Unterminated string starting at: line 1 column 12 (char 11)
+2024-12-06 15:57:41,095 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 15:57:41,102 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 15:57:43,071 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 15:57:43,209 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 15:57:53,920 - utils.uLogger - ERROR - Error: connection error
+Unterminated string starting at: line 1 column 12 (char 11)
+2024-12-06 15:59:32,240 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 15:59:32,240 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 15:59:34,409 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 15:59:34,478 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 15:59:49,260 - utils.uLogger - ERROR - Error: connection error
+Unterminated string starting at: line 1 column 12 (char 11)
+2024-12-06 16:03:27,127 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:03:27,127 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:03:28,837 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:03:28,842 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:03:41,005 - utils.uLogger - ERROR - Error: connection error
+Unterminated string starting at: line 1 column 12 (char 11)
+2024-12-06 16:05:20,962 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:05:20,965 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:05:22,617 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:05:22,719 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:05:31,062 - utils.uLogger - ERROR - Error: connection error
+Unterminated string starting at: line 1 column 12 (char 11)
+2024-12-06 16:07:52,224 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:07:52,232 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:07:54,128 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:07:54,129 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:08:02,284 - utils.uLogger - ERROR - Error: connection error
+Unterminated string starting at: line 1 column 12 (char 11)
+2024-12-06 16:08:31,588 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:08:31,598 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:08:33,728 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:08:33,876 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:08:34,074 - utils.uLogger - INFO - hello
+2024-12-06 16:08:34,217 - utils.uLogger - INFO - hello
+2024-12-06 16:09:29,941 - utils.uLogger - INFO - hello
+2024-12-06 16:09:29,960 - utils.uLogger - INFO - hello
+2024-12-06 16:09:30,535 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:09:30,543 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:09:32,643 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:09:32,731 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:09:32,989 - utils.uLogger - INFO - hello
+2024-12-06 16:09:33,067 - utils.uLogger - INFO - hello
+2024-12-06 16:10:11,145 - utils.uLogger - ERROR - Error: connection error
+Unterminated string starting at: line 1 column 12 (char 11)
+2024-12-06 16:10:53,029 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:10:53,041 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:10:55,340 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:10:55,486 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:10:55,687 - utils.uLogger - INFO - hello
+2024-12-06 16:10:55,707 - utils.uLogger - INFO - hello
+2024-12-06 16:10:55,816 - utils.uLogger - INFO - hello
+2024-12-06 16:10:55,832 - utils.uLogger - INFO - hello
+2024-12-06 16:11:12,856 - utils.uLogger - ERROR - Error: connection error
+Unterminated string starting at: line 1 column 12 (char 11)
+2024-12-06 16:12:09,762 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:12:09,800 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:12:11,589 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:12:11,763 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:12:11,924 - utils.uLogger - INFO - hello
+2024-12-06 16:12:11,943 - utils.uLogger - INFO - hello
+2024-12-06 16:12:11,944 - utils.uLogger - INFO - hello
+2024-12-06 16:12:12,074 - utils.uLogger - INFO - hello
+2024-12-06 16:12:12,089 - utils.uLogger - INFO - hello
+2024-12-06 16:12:12,090 - utils.uLogger - INFO - hello
+2024-12-06 16:12:19,220 - utils.uLogger - ERROR - Error: connection error
+Unterminated string starting at: line 1 column 12 (char 11)
+2024-12-06 16:13:14,182 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:13:14,186 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:13:16,128 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:13:16,130 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:13:16,449 - utils.uLogger - INFO - hello
+2024-12-06 16:13:16,451 - utils.uLogger - INFO - hello
+2024-12-06 16:13:16,465 - utils.uLogger - INFO - hello
+2024-12-06 16:13:16,465 - utils.uLogger - INFO - hello
+2024-12-06 16:13:16,467 - utils.uLogger - INFO - hello
+2024-12-06 16:13:16,467 - utils.uLogger - INFO - hello
+2024-12-06 16:13:22,687 - utils.uLogger - ERROR - Error: connection error
+Unterminated string starting at: line 1 column 12 (char 11)
+2024-12-06 16:13:38,075 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:13:38,075 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:13:40,180 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:13:40,251 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:13:40,508 - utils.uLogger - INFO - hello
+2024-12-06 16:13:40,526 - utils.uLogger - INFO - hello
+2024-12-06 16:13:40,528 - utils.uLogger - INFO - hello
+2024-12-06 16:13:40,565 - utils.uLogger - INFO - hello
+2024-12-06 16:13:40,581 - utils.uLogger - INFO - hello
+2024-12-06 16:13:40,583 - utils.uLogger - INFO - hello
+2024-12-06 16:13:45,659 - utils.uLogger - ERROR - Error: connection error
+Unterminated string starting at: line 1 column 12 (char 11)
+2024-12-06 16:14:26,134 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:14:26,140 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:14:28,368 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:14:28,397 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:14:28,682 - utils.uLogger - INFO - hello
+2024-12-06 16:14:28,698 - utils.uLogger - INFO - hello
+2024-12-06 16:14:28,699 - utils.uLogger - INFO - hello
+2024-12-06 16:14:28,707 - utils.uLogger - INFO - hello
+2024-12-06 16:14:28,723 - utils.uLogger - INFO - hello
+2024-12-06 16:14:28,724 - utils.uLogger - INFO - hello
+2024-12-06 16:14:33,095 - utils.uLogger - ERROR - Error: connection error
+Unterminated string starting at: line 1 column 12 (char 11)
+2024-12-06 16:15:36,707 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:15:36,718 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:15:38,735 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:15:38,765 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:15:39,081 - utils.uLogger - INFO - hello
+2024-12-06 16:15:39,083 - utils.uLogger - INFO - hello
+2024-12-06 16:15:39,096 - utils.uLogger - INFO - hello
+2024-12-06 16:15:39,097 - utils.uLogger - INFO - hello
+2024-12-06 16:15:39,098 - utils.uLogger - INFO - hello
+2024-12-06 16:15:39,099 - utils.uLogger - INFO - hello
+2024-12-06 16:15:42,580 - utils.uLogger - ERROR - Error: connection error
+Unterminated string starting at: line 1 column 12 (char 11)
+2024-12-06 16:17:20,262 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:17:20,262 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:17:22,350 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:17:22,350 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:17:22,663 - utils.uLogger - INFO - hello
+2024-12-06 16:17:22,663 - utils.uLogger - INFO - hello
+2024-12-06 16:17:22,678 - utils.uLogger - INFO - hello
+2024-12-06 16:17:22,678 - utils.uLogger - INFO - hello
+2024-12-06 16:17:22,679 - utils.uLogger - INFO - hello
+2024-12-06 16:17:22,680 - utils.uLogger - INFO - hello
+2024-12-06 16:17:29,633 - utils.uLogger - INFO - Greeting message Hi there! How can I assist you today?
+2024-12-06 16:17:29,634 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': 'Hi there! How can I assist you today?', 'querry_flag': True}
+2024-12-06 16:17:55,569 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-06 16:17:55,570 - utils.uLogger - INFO -  langchain agent responce The following skills are in demand:
+
+1. Periodic processing
+2. Interpersonal communications
+3. Examine budgets
+4. Aircraft accident investigation
+5. Medical assistance
+6. Event planning
+7. Corporate social responsibility
+8. Consumables
+9. User experience
+10. Customer satisfaction
+2024-12-06 16:17:55,571 - utils.uLogger - INFO -  Going for CREWS The following skills are in demand:
+
+1. Periodic processing
+2. Interpersonal communications
+3. Examine budgets
+4. Aircraft accident investigation
+5. Medical assistance
+6. Event planning
+7. Corporate social responsibility
+8. Consumables
+9. User experience
+10. Customer satisfaction
+2024-12-06 16:17:55,572 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': 'The following skills are in demand:\n\n1. Periodic processing\n2. Interpersonal communications\n3. Examine budgets\n4. Aircraft accident investigation\n5. Medical assistance\n6. Event planning\n7. Corporate social responsibility\n8. Consumables\n9. User experience\n10. Customer satisfaction', 'querry_flag': False}
+2024-12-06 16:17:55,573 - utils.uLogger - INFO -  Starting Image Generation The following skills are in demand:
+
+1. Periodic processing
+2. Interpersonal communications
+3. Examine budgets
+4. Aircraft accident investigation
+5. Medical assistance
+6. Event planning
+7. Corporate social responsibility
+8. Consumables
+9. User experience
+10. Customer satisfaction
+2024-12-06 16:18:00,974 - utils.uLogger - ERROR - Error: connection error
+'Report_HTML'
+2024-12-06 16:18:06,144 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:18:07,292 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:18:08,027 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:18:08,329 - utils.uLogger - INFO - hello
+2024-12-06 16:18:08,344 - utils.uLogger - INFO - hello
+2024-12-06 16:18:08,345 - utils.uLogger - INFO - hello
+2024-12-06 16:18:09,131 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:18:09,432 - utils.uLogger - INFO - hello
+2024-12-06 16:18:09,449 - utils.uLogger - INFO - hello
+2024-12-06 16:18:09,450 - utils.uLogger - INFO - hello
+2024-12-06 16:24:16,889 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:24:16,896 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:24:18,559 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:24:18,650 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:24:18,887 - utils.uLogger - INFO - hello
+2024-12-06 16:24:18,903 - utils.uLogger - INFO - hello
+2024-12-06 16:24:18,904 - utils.uLogger - INFO - hello
+2024-12-06 16:24:18,970 - utils.uLogger - INFO - hello
+2024-12-06 16:24:18,985 - utils.uLogger - INFO - hello
+2024-12-06 16:24:18,986 - utils.uLogger - INFO - hello
+2024-12-06 16:24:35,836 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-06 16:24:35,837 - utils.uLogger - INFO -  langchain agent responce The following skills are in demand:
+
+1. Periodic processing
+2. Interpersonal communications
+3. Examine budgets
+4. Aircraft accident investigation
+5. Medical assistance
+6. Event planning
+7. Corporate social responsibility
+8. Consumables
+9. User experience
+10. Customer satisfaction
+2024-12-06 16:24:35,837 - utils.uLogger - INFO -  Going for CREWS The following skills are in demand:
+
+1. Periodic processing
+2. Interpersonal communications
+3. Examine budgets
+4. Aircraft accident investigation
+5. Medical assistance
+6. Event planning
+7. Corporate social responsibility
+8. Consumables
+9. User experience
+10. Customer satisfaction
+2024-12-06 16:24:35,838 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': 'The following skills are in demand:\n\n1. Periodic processing\n2. Interpersonal communications\n3. Examine budgets\n4. Aircraft accident investigation\n5. Medical assistance\n6. Event planning\n7. Corporate social responsibility\n8. Consumables\n9. User experience\n10. Customer satisfaction', 'querry_flag': False}
+2024-12-06 16:24:35,839 - utils.uLogger - INFO -  Starting Image Generation The following skills are in demand:
+
+1. Periodic processing
+2. Interpersonal communications
+3. Examine budgets
+4. Aircraft accident investigation
+5. Medical assistance
+6. Event planning
+7. Corporate social responsibility
+8. Consumables
+9. User experience
+10. Customer satisfaction
+2024-12-06 16:24:40,934 - utils.uLogger - INFO -  Image was generated Now making report
+2024-12-06 16:24:40,935 - utils.uLogger - ERROR - Error: connection error
+'Report_HTML'
+2024-12-06 16:24:46,261 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:24:47,107 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:24:47,800 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:24:48,104 - utils.uLogger - INFO - hello
+2024-12-06 16:24:48,119 - utils.uLogger - INFO - hello
+2024-12-06 16:24:48,120 - utils.uLogger - INFO - hello
+2024-12-06 16:24:48,625 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:24:48,941 - utils.uLogger - INFO - hello
+2024-12-06 16:24:48,957 - utils.uLogger - INFO - hello
+2024-12-06 16:24:48,959 - utils.uLogger - INFO - hello
+2024-12-06 16:26:28,454 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:26:28,458 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:26:30,061 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:26:30,132 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:26:30,380 - utils.uLogger - INFO - hello
+2024-12-06 16:26:30,396 - utils.uLogger - INFO - hello
+2024-12-06 16:26:30,398 - utils.uLogger - INFO - hello
+2024-12-06 16:26:30,439 - utils.uLogger - INFO - hello
+2024-12-06 16:26:30,454 - utils.uLogger - INFO - hello
+2024-12-06 16:26:30,456 - utils.uLogger - INFO - hello
+2024-12-06 16:26:49,261 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-06 16:26:49,262 - utils.uLogger - INFO -  langchain agent responce The following skills are in demand:
+
+1. Periodic processing
+2. Interpersonal communications
+3. Examine budgets
+4. Aircraft accident investigation
+5. Medical assistance
+6. Event planning
+7. Corporate social responsibility
+8. Consumables
+9. User experience
+10. Customer satisfaction
+2024-12-06 16:26:49,262 - utils.uLogger - INFO -  Going for CREWS The following skills are in demand:
+
+1. Periodic processing
+2. Interpersonal communications
+3. Examine budgets
+4. Aircraft accident investigation
+5. Medical assistance
+6. Event planning
+7. Corporate social responsibility
+8. Consumables
+9. User experience
+10. Customer satisfaction
+2024-12-06 16:26:49,263 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': 'The following skills are in demand:\n\n1. Periodic processing\n2. Interpersonal communications\n3. Examine budgets\n4. Aircraft accident investigation\n5. Medical assistance\n6. Event planning\n7. Corporate social responsibility\n8. Consumables\n9. User experience\n10. Customer satisfaction', 'querry_flag': False}
+2024-12-06 16:26:49,264 - utils.uLogger - INFO -  Starting Image Generation The following skills are in demand:
+
+1. Periodic processing
+2. Interpersonal communications
+3. Examine budgets
+4. Aircraft accident investigation
+5. Medical assistance
+6. Event planning
+7. Corporate social responsibility
+8. Consumables
+9. User experience
+10. Customer satisfaction
+2024-12-06 16:26:56,993 - utils.uLogger - INFO -  Image was generated Now making report
+2024-12-06 16:26:56,994 - utils.uLogger - INFO -  Image tag1
+2024-12-06 16:26:56,995 - utils.uLogger - ERROR - Error: connection error
+data is a dict-like object
+2024-12-06 16:27:02,627 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:27:03,137 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:27:04,252 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:27:04,582 - utils.uLogger - INFO - hello
+2024-12-06 16:27:04,598 - utils.uLogger - INFO - hello
+2024-12-06 16:27:04,599 - utils.uLogger - INFO - hello
+2024-12-06 16:27:04,758 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:27:05,064 - utils.uLogger - INFO - hello
+2024-12-06 16:27:05,080 - utils.uLogger - INFO - hello
+2024-12-06 16:27:05,082 - utils.uLogger - INFO - hello
+2024-12-06 16:30:17,228 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:30:17,234 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:30:18,784 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:30:18,908 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:30:19,101 - utils.uLogger - INFO - hello
+2024-12-06 16:30:19,118 - utils.uLogger - INFO - hello
+2024-12-06 16:30:19,119 - utils.uLogger - INFO - hello
+2024-12-06 16:30:19,218 - utils.uLogger - INFO - hello
+2024-12-06 16:30:19,234 - utils.uLogger - INFO - hello
+2024-12-06 16:30:19,236 - utils.uLogger - INFO - hello
+2024-12-06 16:30:39,245 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-06 16:30:39,246 - utils.uLogger - INFO -  langchain agent responce The following skills are in demand:
+
+1. Periodic processing
+2. Interpersonal communications
+3. Examine budgets
+4. Aircraft accident investigation
+5. Medical assistance
+6. Event planning
+7. Corporate social responsibility
+8. Consumables
+9. User experience
+10. Customer satisfaction
+2024-12-06 16:30:39,247 - utils.uLogger - INFO -  Going for CREWS The following skills are in demand:
+
+1. Periodic processing
+2. Interpersonal communications
+3. Examine budgets
+4. Aircraft accident investigation
+5. Medical assistance
+6. Event planning
+7. Corporate social responsibility
+8. Consumables
+9. User experience
+10. Customer satisfaction
+2024-12-06 16:30:39,247 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': 'The following skills are in demand:\n\n1. Periodic processing\n2. Interpersonal communications\n3. Examine budgets\n4. Aircraft accident investigation\n5. Medical assistance\n6. Event planning\n7. Corporate social responsibility\n8. Consumables\n9. User experience\n10. Customer satisfaction', 'querry_flag': False}
+2024-12-06 16:30:39,249 - utils.uLogger - INFO -  Starting Image Generation The following skills are in demand:
+
+1. Periodic processing
+2. Interpersonal communications
+3. Examine budgets
+4. Aircraft accident investigation
+5. Medical assistance
+6. Event planning
+7. Corporate social responsibility
+8. Consumables
+9. User experience
+10. Customer satisfaction
+2024-12-06 16:30:43,713 - utils.uLogger - INFO -  Image was generated Now making report
+2024-12-06 16:30:43,714 - utils.uLogger - INFO -  Image tag  1
+2024-12-06 16:30:43,715 - utils.uLogger - INFO -  Image was generated Now making report
+2024-12-06 16:30:48,386 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:30:50,141 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:30:50,446 - utils.uLogger - INFO - hello
+2024-12-06 16:30:50,461 - utils.uLogger - INFO - hello
+2024-12-06 16:30:50,462 - utils.uLogger - INFO - hello
+2024-12-06 16:31:06,369 - utils.uLogger - ERROR - Error: connection error
+(1012, None)
+2024-12-06 16:31:12,824 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:31:14,447 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:31:14,748 - utils.uLogger - INFO - hello
+2024-12-06 16:31:14,764 - utils.uLogger - INFO - hello
+2024-12-06 16:31:14,765 - utils.uLogger - INFO - hello
+2024-12-06 16:54:34,616 - utils.uLogger - ERROR - Error: connection error
+Expecting ',' delimiter: line 1 column 14 (char 13)
+2024-12-06 16:56:14,749 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:56:14,759 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:56:16,283 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:56:16,420 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:56:16,613 - utils.uLogger - INFO - hello
+2024-12-06 16:56:16,630 - utils.uLogger - INFO - hello
+2024-12-06 16:56:16,632 - utils.uLogger - INFO - hello
+2024-12-06 16:56:16,743 - utils.uLogger - INFO - hello
+2024-12-06 16:56:16,759 - utils.uLogger - INFO - hello
+2024-12-06 16:56:16,760 - utils.uLogger - INFO - hello
+2024-12-06 16:57:11,325 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-06 16:57:11,326 - utils.uLogger - INFO -  langchain agent responce The skill groups in demand and their respective counts of skills are as follows:
+
+### From Supply Data:
+1. **Domain Specific Skills** - 14,180 skills
+2. **IT and Software** - 6,163 skills
+3. **IT and software** - 4,228 skills
+4. **Leadership and Management** - 2,541 skills
+5. **Soft** - 564 skills
+6. **Green** - 318 skills
+7. **soft** - 316 skills
+
+### From Demand Jobs Data:
+1. **Domain Specific Skills** - 837 skills
+2. **Leadership and Management** - 301 skills
+3. **Soft** - 148 skills
+4. **IT and Software** - 121 skills
+5. **soft** - 79 skills
+6. **IT and software** - 72 skills
+7. **Green** - 19 skills
+
+If you need more specific information about any of these groups, feel free to ask!
+2024-12-06 16:57:11,326 - utils.uLogger - INFO -  Going for CREWS The skill groups in demand and their respective counts of skills are as follows:
+
+### From Supply Data:
+1. **Domain Specific Skills** - 14,180 skills
+2. **IT and Software** - 6,163 skills
+3. **IT and software** - 4,228 skills
+4. **Leadership and Management** - 2,541 skills
+5. **Soft** - 564 skills
+6. **Green** - 318 skills
+7. **soft** - 316 skills
+
+### From Demand Jobs Data:
+1. **Domain Specific Skills** - 837 skills
+2. **Leadership and Management** - 301 skills
+3. **Soft** - 148 skills
+4. **IT and Software** - 121 skills
+5. **soft** - 79 skills
+6. **IT and software** - 72 skills
+7. **Green** - 19 skills
+
+If you need more specific information about any of these groups, feel free to ask!
+2024-12-06 16:57:11,327 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': 'The skill groups in demand and their respective counts of skills are as follows:\n\n### From Supply Data:\n1. **Domain Specific Skills** - 14,180 skills\n2. **IT and Software** - 6,163 skills\n3. **IT and software** - 4,228 skills\n4. **Leadership and Management** - 2,541 skills\n5. **Soft** - 564 skills\n6. **Green** - 318 skills\n7. **soft** - 316 skills\n\n### From Demand Jobs Data:\n1. **Domain Specific Skills** - 837 skills\n2. **Leadership and Management** - 301 skills\n3. **Soft** - 148 skills\n4. **IT and Software** - 121 skills\n5. **soft** - 79 skills\n6. **IT and software** - 72 skills\n7. **Green** - 19 skills\n\nIf you need more specific information about any of these groups, feel free to ask!', 'querry_flag': False}
+2024-12-06 16:57:11,328 - utils.uLogger - INFO -  Starting Image Generation The skill groups in demand and their respective counts of skills are as follows:
+
+### From Supply Data:
+1. **Domain Specific Skills** - 14,180 skills
+2. **IT and Software** - 6,163 skills
+3. **IT and software** - 4,228 skills
+4. **Leadership and Management** - 2,541 skills
+5. **Soft** - 564 skills
+6. **Green** - 318 skills
+7. **soft** - 316 skills
+
+### From Demand Jobs Data:
+1. **Domain Specific Skills** - 837 skills
+2. **Leadership and Management** - 301 skills
+3. **Soft** - 148 skills
+4. **IT and Software** - 121 skills
+5. **soft** - 79 skills
+6. **IT and software** - 72 skills
+7. **Green** - 19 skills
+
+If you need more specific information about any of these groups, feel free to ask!
+2024-12-06 16:57:24,451 - utils.uLogger - INFO -  Image was generated Now making report
+2024-12-06 16:57:24,452 - utils.uLogger - INFO -  Image tag  1
+2024-12-06 16:57:24,453 - utils.uLogger - INFO -  Image was generated Now making report
+2024-12-06 16:57:30,050 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:57:31,689 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:57:31,996 - utils.uLogger - INFO - hello
+2024-12-06 16:57:32,012 - utils.uLogger - INFO - hello
+2024-12-06 16:57:32,013 - utils.uLogger - INFO - hello
+2024-12-06 16:57:52,079 - utils.uLogger - ERROR - Error: connection error
+(1012, None)
+2024-12-06 16:57:58,334 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 16:58:00,008 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 16:58:00,337 - utils.uLogger - INFO - hello
+2024-12-06 16:58:00,356 - utils.uLogger - INFO - hello
+2024-12-06 16:58:00,358 - utils.uLogger - INFO - hello
+2024-12-06 17:29:17,582 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 17:29:17,582 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 17:29:19,269 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 17:29:19,345 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 17:29:19,695 - utils.uLogger - INFO - hello
+2024-12-06 17:29:19,713 - utils.uLogger - INFO - hello
+2024-12-06 17:29:19,715 - utils.uLogger - INFO - hello
+2024-12-06 17:29:19,723 - utils.uLogger - INFO - hello
+2024-12-06 17:29:19,747 - utils.uLogger - INFO - hello
+2024-12-06 17:29:19,749 - utils.uLogger - INFO - hello
+2024-12-06 17:33:19,204 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 17:33:19,215 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 17:33:20,894 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 17:33:20,925 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 17:33:21,279 - utils.uLogger - INFO - hello
+2024-12-06 17:33:21,297 - utils.uLogger - INFO - hello
+2024-12-06 17:33:21,298 - utils.uLogger - INFO - hello
+2024-12-06 17:33:21,299 - utils.uLogger - INFO - hello
+2024-12-06 17:33:21,316 - utils.uLogger - INFO - hello
+2024-12-06 17:33:21,318 - utils.uLogger - INFO - hello
+2024-12-06 18:35:51,165 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 18:35:51,186 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 18:35:52,831 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 18:35:52,832 - utils.uLogger - INFO - hello
+2024-12-06 18:35:52,839 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 18:35:52,840 - utils.uLogger - INFO - hello
+2024-12-06 18:35:52,864 - utils.uLogger - INFO - hello
+2024-12-06 18:35:52,865 - utils.uLogger - INFO - hello
+2024-12-06 18:35:52,875 - utils.uLogger - INFO - hello
+2024-12-06 18:35:52,877 - utils.uLogger - INFO - hello
+2024-12-06 18:36:18,984 - utils.uLogger - INFO - Greeting message Hi there! How can I assist you today?
+2024-12-06 18:36:18,985 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': 'Hi there! How can I assist you today?', 'querry_flag': True}
+2024-12-06 18:37:22,017 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-06 18:37:22,020 - utils.uLogger - INFO -  langchain agent responce The top 10 skills and their counts are as follows:
+
+1. winrm - 73
+2. decision making - 70
+3. student learning outcomes - 64
+4. data analysis - 63
+5. ethical conduct - 63
+6. problem solving - 61
+7. information technology - 58
+8. information systems - 58
+9. english language - 56
+10. research methodologies - 56
+2024-12-06 18:37:22,021 - utils.uLogger - INFO -  Going for CREWS The top 10 skills and their counts are as follows:
+
+1. winrm - 73
+2. decision making - 70
+3. student learning outcomes - 64
+4. data analysis - 63
+5. ethical conduct - 63
+6. problem solving - 61
+7. information technology - 58
+8. information systems - 58
+9. english language - 56
+10. research methodologies - 56
+2024-12-06 18:37:22,023 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': 'The top 10 skills and their counts are as follows:\n\n1. winrm - 73\n2. decision making - 70\n3. student learning outcomes - 64\n4. data analysis - 63\n5. ethical conduct - 63\n6. problem solving - 61\n7. information technology - 58\n8. information systems - 58\n9. english language - 56\n10. research methodologies - 56', 'querry_flag': False}
+2024-12-06 18:37:22,025 - utils.uLogger - INFO -  Starting Image Generation The top 10 skills and their counts are as follows:
+
+1. winrm - 73
+2. decision making - 70
+3. student learning outcomes - 64
+4. data analysis - 63
+5. ethical conduct - 63
+6. problem solving - 61
+7. information technology - 58
+8. information systems - 58
+9. english language - 56
+10. research methodologies - 56
+2024-12-06 18:37:28,565 - utils.uLogger - INFO -  Image was generated Now making report
+2024-12-06 18:37:28,566 - utils.uLogger - INFO -  Image tag  1
+2024-12-06 18:39:33,709 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-06 18:39:33,714 - utils.uLogger - INFO -  langchain agent responce The top 10 skills and their counts are as follows:
+
+1. Decision Making: 80
+2. Problem Solving: 79
+3. WinRM: 73
+4. Management: 73
+5. Data Analysis: 68
+6. Student Learning Outcomes: 64
+7. Ethical Conduct: 63
+8. Information Technology: 60
+9. English Language: 60
+10. Project Management: 58
+2024-12-06 18:39:33,715 - utils.uLogger - INFO -  Going for CREWS The top 10 skills and their counts are as follows:
+
+1. Decision Making: 80
+2. Problem Solving: 79
+3. WinRM: 73
+4. Management: 73
+5. Data Analysis: 68
+6. Student Learning Outcomes: 64
+7. Ethical Conduct: 63
+8. Information Technology: 60
+9. English Language: 60
+10. Project Management: 58
+2024-12-06 18:39:33,716 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': 'The top 10 skills and their counts are as follows:\n\n1. Decision Making: 80\n2. Problem Solving: 79\n3. WinRM: 73\n4. Management: 73\n5. Data Analysis: 68\n6. Student Learning Outcomes: 64\n7. Ethical Conduct: 63\n8. Information Technology: 60\n9. English Language: 60\n10. Project Management: 58', 'querry_flag': False}
+2024-12-06 18:39:33,718 - utils.uLogger - INFO -  Starting Image Generation The top 10 skills and their counts are as follows:
+
+1. Decision Making: 80
+2. Problem Solving: 79
+3. WinRM: 73
+4. Management: 73
+5. Data Analysis: 68
+6. Student Learning Outcomes: 64
+7. Ethical Conduct: 63
+8. Information Technology: 60
+9. English Language: 60
+10. Project Management: 58
+2024-12-06 18:39:39,389 - utils.uLogger - INFO -  Image was generated Now making report
+2024-12-06 18:39:39,389 - utils.uLogger - INFO -  Image tag  1
+2024-12-06 18:40:04,591 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-06 18:40:18,261 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 18:40:18,261 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 18:40:19,817 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 18:40:19,818 - utils.uLogger - INFO - hello
+2024-12-06 18:40:19,839 - utils.uLogger - INFO - hello
+2024-12-06 18:40:19,840 - utils.uLogger - INFO - hello
+2024-12-06 18:40:19,872 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 18:40:19,876 - utils.uLogger - INFO - hello
+2024-12-06 18:40:19,941 - utils.uLogger - INFO - hello
+2024-12-06 18:40:19,947 - utils.uLogger - INFO - hello
+2024-12-06 18:40:55,513 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-06 18:40:55,520 - utils.uLogger - INFO -  langchain agent responce The top 10 skills and their counts are as follows:
+
+1. winrm - 73
+2. decision making - 70
+3. student learning outcomes - 64
+4. data analysis - 63
+5. ethical conduct - 63
+6. problem solving - 61
+7. information technology - 58
+8. information systems - 58
+9. english language - 56
+10. research methodologies - 56
+2024-12-06 18:40:55,522 - utils.uLogger - INFO -  Going for CREWS The top 10 skills and their counts are as follows:
+
+1. winrm - 73
+2. decision making - 70
+3. student learning outcomes - 64
+4. data analysis - 63
+5. ethical conduct - 63
+6. problem solving - 61
+7. information technology - 58
+8. information systems - 58
+9. english language - 56
+10. research methodologies - 56
+2024-12-06 18:40:55,524 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': 'The top 10 skills and their counts are as follows:\n\n1. winrm - 73\n2. decision making - 70\n3. student learning outcomes - 64\n4. data analysis - 63\n5. ethical conduct - 63\n6. problem solving - 61\n7. information technology - 58\n8. information systems - 58\n9. english language - 56\n10. research methodologies - 56', 'querry_flag': False}
+2024-12-06 18:40:55,525 - utils.uLogger - INFO -  Starting Image Generation The top 10 skills and their counts are as follows:
+
+1. winrm - 73
+2. decision making - 70
+3. student learning outcomes - 64
+4. data analysis - 63
+5. ethical conduct - 63
+6. problem solving - 61
+7. information technology - 58
+8. information systems - 58
+9. english language - 56
+10. research methodologies - 56
+2024-12-06 18:41:02,529 - utils.uLogger - INFO -  Image was generated Now making report
+2024-12-06 18:41:02,532 - utils.uLogger - INFO -  Image tag  1
+2024-12-06 18:43:17,177 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-06 18:43:40,924 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 18:43:40,933 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-06 18:43:42,462 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 18:43:42,463 - utils.uLogger - INFO - hello
+2024-12-06 18:43:42,484 - utils.uLogger - INFO - hello
+2024-12-06 18:43:42,485 - utils.uLogger - INFO - hello
+2024-12-06 18:43:42,562 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-06 18:43:42,563 - utils.uLogger - INFO - hello
+2024-12-06 18:43:42,604 - utils.uLogger - INFO - hello
+2024-12-06 18:43:42,606 - utils.uLogger - INFO - hello
+2024-12-06 18:44:40,919 - utils.uLogger - INFO - lanchain agent worked properly
+2024-12-06 18:44:40,920 - utils.uLogger - INFO -  langchain agent responce The top 10 skills and their counts are as follows:
+
+1. winrm - 73
+2. decision making - 70
+3. student learning outcomes - 64
+4. data analysis - 63
+5. ethical conduct - 63
+6. problem solving - 61
+7. information technology - 58
+8. information systems - 58
+9. english language - 56
+10. research methodologies - 56
+2024-12-06 18:44:40,920 - utils.uLogger - INFO -  Going for CREWS The top 10 skills and their counts are as follows:
+
+1. winrm - 73
+2. decision making - 70
+3. student learning outcomes - 64
+4. data analysis - 63
+5. ethical conduct - 63
+6. problem solving - 61
+7. information technology - 58
+8. information systems - 58
+9. english language - 56
+10. research methodologies - 56
+2024-12-06 18:44:40,924 - utils.uLogger - INFO -  Allowed for repeated Chat chats {'message': 'The top 10 skills and their counts are as follows:\n\n1. winrm - 73\n2. decision making - 70\n3. student learning outcomes - 64\n4. data analysis - 63\n5. ethical conduct - 63\n6. problem solving - 61\n7. information technology - 58\n8. information systems - 58\n9. english language - 56\n10. research methodologies - 56', 'querry_flag': False}
+2024-12-06 18:44:40,925 - utils.uLogger - INFO -  Starting Image Generation The top 10 skills and their counts are as follows:
+
+1. winrm - 73
+2. decision making - 70
+3. student learning outcomes - 64
+4. data analysis - 63
+5. ethical conduct - 63
+6. problem solving - 61
+7. information technology - 58
+8. information systems - 58
+9. english language - 56
+10. research methodologies - 56
+2024-12-06 18:44:46,868 - utils.uLogger - INFO -  Image was generated Now making report
+2024-12-06 18:44:46,869 - utils.uLogger - INFO -  Image tag  1
+2024-12-06 18:44:46,870 - utils.uLogger - INFO -  Image was generated Now making report
+2024-12-06 19:45:34,484 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')
+2024-12-07 18:40:55,881 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-07 18:40:55,881 - utils.uLogger - INFO - Connection to the database was successful with psycopg2!
+2024-12-07 18:41:01,086 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-07 18:41:01,087 - utils.uLogger - INFO - hello
+2024-12-07 18:41:01,150 - utils.uLogger - INFO - hello
+2024-12-07 18:41:01,151 - utils.uLogger - INFO - hello
+2024-12-07 18:41:01,200 - utils.uLogger - INFO - Connection to the PostgreSQL database was successful using SQLDatabase!
+2024-12-07 18:41:01,201 - utils.uLogger - INFO - hello
+2024-12-07 18:41:01,225 - utils.uLogger - INFO - hello
+2024-12-07 18:41:01,228 - utils.uLogger - INFO - hello
+2024-12-08 00:08:50,904 - utils.uLogger - ERROR - Error: connection error
+(<CloseCode.ABNORMAL_CLOSURE: 1006>, '')

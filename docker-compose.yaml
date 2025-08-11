@@ -1,0 +1,32 @@
+services:
+  nginx:
+    image: nginx:1.15
+    container_name: nginx
+    volumes:
+      - ./default.conf:/etc/nginx/conf.d/default.conf
+      - ./log_dir:/root/skill_observatory/log_dir
+    ports:
+      - "80:80"
+    networks:
+      - my-network
+    depends_on:
+      - skill_observatory
+  skill_observatory:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    container_name: skill_observatory
+    working_dir: /root/skill_observatory
+    command: bash -c "gunicorn 'main:app' --bind 0.0.0.0:8000 --timeout 120 -k configs.uvcworkerfix.RestartableUvicornWorker --workers 2 --threads=4 --worker-connections=50 --reload --reload-engine 'inotify'"
+    volumes:
+      - .:/root/skill_observatory
+    ports:
+      - "8000:8000"
+    networks:
+      - my-network
+    environment:
+      TZ: "Asia/Dubai"
+        
+networks:
+  my-network:
+    driver: bridge
