@@ -150,33 +150,6 @@ Skill Observatory is a **production-ready Multi-Agent Chatbot Framework** design
 - AWS S3 bucket (for visualization storage)
 - OpenAI API key
 
-### Local Development Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/skill-observatory.git
-   cd skill-observatory
-   ```
-
-2. **Install Python dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Set up environment variables**
-   ```bash
-   cp all.env.example all.env
-   # Edit all.env with your configuration
-   ```
-
-4. **Configure database**
-   ```bash
-   # Set up PostgreSQL database and update connection details in all.env
-   ```
-
-5. **Run the application**
-   ```bash
-   python main.py
    ```
 
 ### Docker Deployment
@@ -230,36 +203,7 @@ The system uses a sophisticated multi-agent workflow where different specialized
 3. **Visualization Agent**: Creates charts and visual representations
 4. **Report Generation Agent**: Compiles comprehensive reports with insights
 
-### WebSocket Connection
 
-Connect to the WebSocket endpoint and send JSON messages:
-
-```javascript
-const ws = new WebSocket('ws://localhost:8000/ws');
-
-ws.onopen = function() {
-    console.log('Connected to Skill Observatory Multi-Agent System');
-};
-
-ws.onmessage = function(event) {
-    const response = JSON.parse(event.data);
-    console.log('Received:', response);
-    
-    // Handle different response types
-    if (response.querry_flag === true) {
-        // Direct response (greeting, simple answer)
-        console.log('Direct response:', response.message);
-    } else {
-        // Complex response with visualization and report
-        console.log('Report with visualization:', response.message);
-    }
-};
-
-// Send a query - the multi-agent system will process it
-ws.send(JSON.stringify({
-    message: "What are the top skills in demand for software development?"
-}));
-```
 
 ### Example Queries
 
@@ -288,30 +232,6 @@ Health check endpoint for the multi-agent system
 ```bash
 curl http://localhost:8000/
 ```
-
-### WebSocket Endpoints
-
-#### WebSocket /ws
-Real-time multi-agent chat interface for skill analytics
-
-**Message Format:**
-```json
-{
-    "message": "Your query here"
-}
-```
-
-**Response Format:**
-```json
-{
-    "message": "Response content, HTML report, or visualization data",
-    "querry_flag": true/false
-}
-```
-
-**Response Types:**
-- `querry_flag: true` → Direct response (greeting, simple answer)
-- `querry_flag: false` → Complex response with visualization and comprehensive report
 
 ### Agent Communication Flow
 
@@ -363,50 +283,7 @@ The platform integrates data from multiple authoritative sources and processes t
 - **Visualization Agent**: Transforms raw data into meaningful charts and graphs
 - **Report Generation Agent**: Synthesizes data from multiple sources into comprehensive insights
 
-## 🤝 Contributing
 
-We welcome contributions! Please follow these steps:
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Commit your changes**
-   ```bash
-   git commit -m 'Add some amazing feature'
-   ```
-4. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-5. **Open a Pull Request**
-
-### Development Guidelines
-
-- Follow PEP 8 style guidelines
-- Add tests for new features
-- Update documentation for API changes
-- Ensure all tests pass before submitting PR
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-For support and questions:
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/skill-observatory/issues)
-- **Documentation**: [Wiki](https://github.com/yourusername/skill-observatory/wiki)
-- **Email**: support@skillobservatory.com
-
-## 🙏 Acknowledgments
-
-- **OpenAI** for providing the GPT-4 language model that powers our NLP capabilities
-- **CrewAI Team** for the innovative multi-agent framework that enables our sophisticated workflow
-- **LangChain Community** for the LLM integration tools and SQL agent capabilities
-- **All Contributors** and data providers who make this project possible
 
 ## 🏆 **Project Highlights**
 
